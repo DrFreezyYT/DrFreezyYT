@@ -4,6 +4,7 @@ $BranchToUse = 'main'
 <#
 .NOTES
    Author      : Chris Titus @christitustech
+   Forker      : DrFreezyYT 
    GitHub      : https://github.com/ChrisTitusTech
     Version 0.0.1
 #>
@@ -76,7 +77,7 @@ Function Get-FormVariables {
     write-host "'  '--'\   |  |      |  |"
     write-host " `-----'   `--'      `--'"
     write-host ""
-    write-host "====Chris Titus Tech====="
+    write-host "====Critical Tech Tips====="
     write-host "=====Windows Toolbox====="
                            
  
@@ -149,7 +150,7 @@ function Set-Presets {
 # Global Variables
 #===========================================================================
 
-$AppTitle = "Chris Titus Tech's Windows Utility"
+$AppTitle = "Critical Tech Tips's Windows Utility"
 
 #===========================================================================
 # Navigation Controls
