@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding Minecraft Skripts
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Discord: DrFreezyYT#4502
+- 📫 How to reach me: Discord: dattv
 
 <!---
 DrFreezyYT/DrFreezyYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
