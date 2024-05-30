@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrFreezyYT
-- 👀 I’m interested in coding Minecraft Skripts
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in coding Minecraft Plugins
+- 🌱 I’m currently learning Java, JavaScript & SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord: dattv
 
