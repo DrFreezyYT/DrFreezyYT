@@ -2,7 +2,7 @@
 
 **🟢 Moin!**
 
-I'm a 16-year-old developer from Germany 🇩🇪, focusing on backend development, Minecraft Plugins, and Java. I'm a developer at [Shield-Break.net](https://shield-break.net/) and [Emrage Global](https://discord.gg/Qeepngj4Y9).
+I'm a 17-year-old developer from Germany 🇩🇪, focusing on backend development, Minecraft Plugins, and Java. I'm a developer at [Shield-Break.net](https://shield-break.net/) and [Emrage Global](https://discord.gg/Qeepngj4Y9).
 &nbsp;
 
 
